@@ -11,7 +11,7 @@ padding-right: 16px!important;
 outline: none!important;
 }
 .bg-black{
-background: black;
+background:maroon;
 }
 /*=====Slider=====*/
 .carousel-item{
@@ -36,11 +36,11 @@ height: 600px;
     color: #fff;
 }
 .btn-color{
-    background:#000;
-    color: grey;
+    background:maroon;
+    color: white;
 }
 .btn-color-hover{
-    color: #fff;
+    color: black;
 }
 @keyframes slide-btn{
     16%{
@@ -89,7 +89,7 @@ height: 600px;
 /*===========End of Service Section======*/
 /*======Product Section======*/
 #products{
-    background: #000;
+    background: royalblue;
 }
 .product-title{
     color: #fff;
